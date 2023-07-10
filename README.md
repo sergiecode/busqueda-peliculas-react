@@ -20,8 +20,10 @@ Asegúrate de tener los siguientes archivos en tu proyecto:
 
 El primer paso en el archivo `MovieSearchApp.js` es importar la dependencia `useState` de React y el archivo de estilos `movieSearch.css`.
 
+```
     import { useState } from 'react';
     import './styles/movieSearch.css';
+```
 
 ### 3. Definir el componente `MovieSearchApp`
 
